@@ -7,5 +7,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("hello git");
+        System.out.println("我在github上修改了代码，等会在idea拉取代码");
     }
 }
